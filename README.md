@@ -39,7 +39,7 @@ Enjoy, we will keep updating our project and adding more features!
 
 ## Authors ✒️
 
-* **Alejandro Barea Moreno - punlover** - *Trabajo Inicial* - [villanuevand](https://github.com/punlover)
+* **Alejandro Barea Moreno - punlover** - *Initial Work* - [punlover](https://github.com/punlover)
 
 ## Licence 📄
 
